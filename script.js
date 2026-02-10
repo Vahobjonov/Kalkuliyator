@@ -86,7 +86,7 @@ if (type === "") {
         var ins = prompt("Nima uchun institutga kirishni xohlaysiz")
         if (ins && ins.trim() !== "")
             var Ozgartirish = ins.replace(/universitet/gi, "alicode")
-               alert("Natija: " + Ozgartirish);
+               alert("Ozgardi" + Ozgartirish);
 
         }
   }
